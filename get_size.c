@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_size - get size
+ * get_size - get the size
  * @format: arguments of type pointer to char
  * @i: arguments of type pointer to int
  *
