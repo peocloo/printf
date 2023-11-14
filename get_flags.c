@@ -4,7 +4,7 @@
  * get_flags - gets flags.
  * @format: arguments of type pointer to char
  * @i: argument of type pointer to int
- *
+ * 
  * Return: int
  */
 int get_flags(const char *format, int *i)
