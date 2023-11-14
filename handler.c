@@ -3,7 +3,7 @@
 /**
  * handle_write_char - Prints a string
  * @c: char args
- * @buffer: array to handle print
+ * @buffer: array to handle print.
  * @flags:  active flags.
  * @width: get width.
  * @precision: int argument
