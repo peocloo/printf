@@ -8,7 +8,7 @@
  * @width: get width.
  * @precision: Precision specification
  * @size: Size specifier
- * 
+ *
  * Return: int
  */
 int print_binary(va_list types, char buffer[],
