@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_flags - gets flags
+ * get_flags - gets flags.
  * @format: arguments of type pointer to char
  * @i: argument of type pointer to int
  * 
